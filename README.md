@@ -41,6 +41,6 @@ Each model was tuned using **GridSearchCV** with cross-validation.
 - Incorporate **SHAP** or **LIME** for model interpretability
 
 ## Demo
-[Streamlit App Coming Soon 👇]
+[Streamlit App Coming Soon ]
 
 ## Folder Structure
