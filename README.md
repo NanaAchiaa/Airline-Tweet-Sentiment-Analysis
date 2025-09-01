@@ -40,7 +40,3 @@ Each model was tuned using **GridSearchCV** with cross-validation.
 - Deploy using **Streamlit** for interactive predictions
 - Incorporate **SHAP** or **LIME** for model interpretability
 
-## Demo
-[Streamlit App Coming Soon ]
-
-## Folder Structure
